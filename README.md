@@ -39,6 +39,9 @@ Languages
 - HTML
 - CSS
 - Javascript
+- React
+- GraphQL
+- Apollo
 
 
 Libraries
