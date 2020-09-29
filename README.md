@@ -9,9 +9,9 @@ This was a project follow along with Traversy Media's tutorial on learning Graph
 
 ## Deployment
 
-[ShopByYou Heroku Application](https://gentle-island-67437.herokuapp.com/)
+[Deployemnt Link](https://sheltered-tor-03736.herokuapp.com/)
 
-![ShopByYou](public/assets/images/shopByYou.gif)
+
 
 ## Table of Contents
   * [Installation](#installation)
